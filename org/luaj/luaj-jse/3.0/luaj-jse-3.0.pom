@@ -1,0 +1,36 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.luaj</groupId>
+  <artifactId>luaj-jse</artifactId>
+  <version>3.0</version>
+  <packaging>jar</packaging>
+  <name>luaj-jse</name>
+  <description>Luaj 3.0 for the jse platform</description>
+  <url>http://sourceforge.net/projects/luaj/</url>
+  <licenses>
+    <license>
+      <name>MIT License</name>
+      <url>http://luaj.sourceforge.net/license.txt</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <developers>
+	<developer>
+		<id>jrosebor</id>
+		<name>James Roseborough</name>
+		<email>jim.roseborough@luaj.org</email>
+		<timezone>-8</timezone>
+		<roles></roles>
+	</developer>
+	<developer>
+		<id>ifarmer</id>
+		<name>Ian Farmer</name>
+		<email>ian.farmer@luaj.org</email>
+		<timezone>-8</timezone>
+		<roles></roles>
+	</developer>
+  </developers>
+  <scm>
+    <url>http://luaj.cvs.sourceforge.net/viewvc/luaj/luaj-vm/</url>
+  </scm>
+ </project>
