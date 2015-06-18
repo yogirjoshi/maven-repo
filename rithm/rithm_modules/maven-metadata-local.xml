@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>rithm</groupId>
-  <artifactId>parsertools</artifactId>
+  <artifactId>rithm_modules</artifactId>
   <versioning>
     <versions>
       <version>0.0.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20150613162837</lastUpdated>
+    <lastUpdated>20150613162829</lastUpdated>
   </versioning>
 </metadata>
