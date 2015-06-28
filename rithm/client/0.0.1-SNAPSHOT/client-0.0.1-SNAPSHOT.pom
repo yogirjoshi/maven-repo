@@ -9,6 +9,13 @@
   <groupId>rithm</groupId>
   <artifactId>client</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+  <dependency>
+		<groupId>rithm</groupId>
+		<artifactId>command</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+	</dependency>
+	</dependencies>
   <build>
   <plugins>
   	<plugin>

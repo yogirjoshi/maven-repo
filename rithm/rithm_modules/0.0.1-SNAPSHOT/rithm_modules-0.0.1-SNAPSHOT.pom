@@ -9,5 +9,14 @@
   	<module>../monitortools</module>
   	<module>../parsertools</module>
   	<module>../rithmcore</module>
+  	<module>../client</module>
+  	<module>../command</module>
   </modules>
+  <repositories>
+		<repository>
+			<id>git-yogirjoshi</id>
+			<name>yogirjoshi's Git based repo</name>
+			<url>https://github.com/yogirjoshi/maven-repo/raw/master/</url>
+		</repository>
+  </repositories>
 </project>
