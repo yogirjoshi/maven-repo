@@ -32515,3 +32515,66 @@
 2015-06-30 16:14:52,841 [main] DEBUG rithm.ltl.LTLMonitor:168 - "(-1, 1)" to "(-1, 1)"
 2015-06-30 16:14:52,842 [main] DEBUG rithm.ltl.LTLMonitor:175 - "(-1, 1)" valuation ->Violated
 2015-06-30 16:14:52,842 [main] DEBUG rithm.ltl.LTLMonitor:175 - "(0, 0)" valuation ->Presumably Satisfied
+2015-07-02 10:13:02,363 [main] DEBUG rithm.commands.RiTHMParameterValidator:175 - No of pipes:2
+2015-07-02 10:13:02,391 [main] INFO  rithm.commands.RiTHMParameterValidator:214 - Will process trace from CANDataRiTHM.csv
+2015-07-02 10:13:02,391 [main] DEBUG rithm.commands.RiTHMParameterValidator:127 - Added to specifications for pipe0=a=(20-><>{0.01,0.5}20) || (20-><*>{0.01,0.5}20)#b=[]a
+2015-07-02 10:13:02,391 [main] DEBUG rithm.commands.RiTHMParameterValidator:135 - Added to specParsers for pipe0=MTL#LTL
+2015-07-02 10:13:02,392 [main] DEBUG rithm.commands.RiTHMParameterValidator:143 - Added to monitors for pipe0=MTL#LTL4
+2015-07-02 10:13:02,392 [main] DEBUG rithm.commands.RiTHMParameterValidator:148 - Using DefaultPredicateEvaluator for pipe0
+2015-07-02 10:13:02,392 [main] DEBUG rithm.commands.RiTHMParameterValidator:127 - Added to specifications for pipe1=x=(20-><>{0.1,0.5}20)#y=[]x
+2015-07-02 10:13:02,393 [main] DEBUG rithm.commands.RiTHMParameterValidator:135 - Added to specParsers for pipe1=MTL#LTL
+2015-07-02 10:13:02,393 [main] DEBUG rithm.commands.RiTHMParameterValidator:143 - Added to monitors for pipe1=MTL#LTL4
+2015-07-02 10:13:02,393 [main] DEBUG rithm.commands.RiTHMParameterValidator:148 - Using DefaultPredicateEvaluator for pipe1
+2015-07-02 10:13:02,396 [main] DEBUG rithm.driver.RiTHMCommandHandler:207 - a=(20-><>{0.01,0.5}20) || (20-><*>{0.01,0.5}20)
+2015-07-02 10:13:02,397 [main] DEBUG rithm.driver.RiTHMCommandHandler:209 - (20-><>{0.01,0.5}20) || (20-><*>{0.01,0.5}20) to be parsed with MTL
+2015-07-02 10:13:02,397 [main] DEBUG rithm.driver.RiTHMCommandHandler:211 - (20-><>{0.01,0.5}20) || (20-><*>{0.01,0.5}20) to be monitored with MTL
+2015-07-02 10:13:02,397 [main] DEBUG rithm.driver.RiTHMCommandHandler:207 - b=[]a
+2015-07-02 10:13:02,398 [main] DEBUG rithm.driver.RiTHMCommandHandler:209 - []a to be parsed with LTL
+2015-07-02 10:13:02,398 [main] DEBUG rithm.driver.RiTHMCommandHandler:211 - []a to be monitored with LTL4
+2015-07-02 10:13:02,398 [main] DEBUG rithm.driver.RiTHMCommandHandler:207 - x=(20-><>{0.1,0.5}20)
+2015-07-02 10:13:02,401 [main] DEBUG rithm.driver.RiTHMCommandHandler:209 - (20-><>{0.1,0.5}20) to be parsed with MTL
+2015-07-02 10:13:02,401 [main] DEBUG rithm.driver.RiTHMCommandHandler:211 - (20-><>{0.1,0.5}20) to be monitored with MTL
+2015-07-02 10:13:02,402 [main] DEBUG rithm.driver.RiTHMCommandHandler:207 - y=[]x
+2015-07-02 10:13:02,403 [main] DEBUG rithm.driver.RiTHMCommandHandler:209 - []x to be parsed with LTL
+2015-07-02 10:13:02,403 [main] DEBUG rithm.driver.RiTHMCommandHandler:211 - []x to be monitored with LTL4
+2015-07-02 10:13:02,432 [main] DEBUG rithm.driver.RiTHMCommandHandler:275 - Log file of monitor = rithmout00
+2015-07-02 10:13:02,432 [main] DEBUG rithm.driver.RiTHMCommandHandler:276 - Plot file of monitor = rithmplot00
+2015-07-02 10:13:02,568 [main] INFO  rithm.parsertools.mtl.RiTHMMTLVisitor:76 - Processed 20
+2015-07-02 10:13:02,595 [main] INFO  rithm.parsertools.mtl.RiTHMMTLVisitor:76 - Processed 20
+2015-07-02 10:13:02,614 [main] INFO  rithm.parsertools.mtl.RiTHMMTLVisitor:447 - Processed 20 for eventually{0.01,0.5}, Result into 1
+2015-07-02 10:13:02,616 [main] INFO  rithm.parsertools.mtl.RiTHMMTLVisitor:163 - Processed 20 1 for if, Result into 2
+2015-07-02 10:13:02,617 [main] INFO  rithm.parsertools.mtl.RiTHMMTLVisitor:76 - Processed 20
+2015-07-02 10:13:02,625 [main] INFO  rithm.parsertools.mtl.RiTHMMTLVisitor:76 - Processed 20
+2015-07-02 10:13:02,642 [main] INFO  rithm.parsertools.mtl.RiTHMMTLVisitor:447 - Processed 20 for eventually^-1{0.01,0.5}, Result into 3
+2015-07-02 10:13:02,644 [main] INFO  rithm.parsertools.mtl.RiTHMMTLVisitor:163 - Processed 20 3 for if, Result into 4
+2015-07-02 10:13:02,645 [main] INFO  rithm.parsertools.mtl.RiTHMMTLVisitor:163 - Processed 2 4 for or, Result into 5
+2015-07-02 10:13:02,693 [main] DEBUG rithm.driver.RiTHMCommandHandler:275 - Log file of monitor = rithmout01
+2015-07-02 10:13:02,693 [main] DEBUG rithm.driver.RiTHMCommandHandler:276 - Plot file of monitor = rithmplot01
+2015-07-02 10:13:03,222 [main] DEBUG rithm.ltl.LTLMonitor:146 - Predicate ->a
+2015-07-02 10:13:03,222 [main] DEBUG rithm.ltl.LTLMonitor:149 - "(0, 0)" to "(0, 0)"
+2015-07-02 10:13:03,223 [main] DEBUG rithm.ltl.LTLMonitor:167 - Predicate -> <empty>
+2015-07-02 10:13:03,223 [main] DEBUG rithm.ltl.LTLMonitor:168 - "(0, 0)" to "(-1, 1)"
+2015-07-02 10:13:03,223 [main] DEBUG rithm.ltl.LTLMonitor:146 - Predicate ->a
+2015-07-02 10:13:03,224 [main] DEBUG rithm.ltl.LTLMonitor:149 - "(-1, 1)" to "(-1, 1)"
+2015-07-02 10:13:03,224 [main] DEBUG rithm.ltl.LTLMonitor:167 - Predicate -> <empty>
+2015-07-02 10:13:03,224 [main] DEBUG rithm.ltl.LTLMonitor:168 - "(-1, 1)" to "(-1, 1)"
+2015-07-02 10:13:03,225 [main] DEBUG rithm.ltl.LTLMonitor:175 - "(-1, 1)" valuation ->Violated
+2015-07-02 10:13:03,225 [main] DEBUG rithm.ltl.LTLMonitor:175 - "(0, 0)" valuation ->Presumably Satisfied
+2015-07-02 10:13:03,248 [main] DEBUG rithm.driver.RiTHMCommandHandler:275 - Log file of monitor = rithmout10
+2015-07-02 10:13:03,248 [main] DEBUG rithm.driver.RiTHMCommandHandler:276 - Plot file of monitor = rithmplot10
+2015-07-02 10:13:03,265 [main] INFO  rithm.parsertools.mtl.RiTHMMTLVisitor:76 - Processed 20
+2015-07-02 10:13:03,270 [main] INFO  rithm.parsertools.mtl.RiTHMMTLVisitor:76 - Processed 20
+2015-07-02 10:13:03,308 [main] INFO  rithm.parsertools.mtl.RiTHMMTLVisitor:447 - Processed 20 for eventually{0.1,0.5}, Result into 1
+2015-07-02 10:13:03,310 [main] INFO  rithm.parsertools.mtl.RiTHMMTLVisitor:163 - Processed 20 1 for if, Result into 2
+2015-07-02 10:13:03,325 [main] DEBUG rithm.driver.RiTHMCommandHandler:275 - Log file of monitor = rithmout11
+2015-07-02 10:13:03,325 [main] DEBUG rithm.driver.RiTHMCommandHandler:276 - Plot file of monitor = rithmplot11
+2015-07-02 10:13:03,352 [main] DEBUG rithm.ltl.LTLMonitor:146 - Predicate ->x
+2015-07-02 10:13:03,355 [main] DEBUG rithm.ltl.LTLMonitor:149 - "(0, 0)" to "(0, 0)"
+2015-07-02 10:13:03,356 [main] DEBUG rithm.ltl.LTLMonitor:167 - Predicate -> <empty>
+2015-07-02 10:13:03,356 [main] DEBUG rithm.ltl.LTLMonitor:168 - "(0, 0)" to "(-1, 1)"
+2015-07-02 10:13:03,356 [main] DEBUG rithm.ltl.LTLMonitor:146 - Predicate ->x
+2015-07-02 10:13:03,356 [main] DEBUG rithm.ltl.LTLMonitor:149 - "(-1, 1)" to "(-1, 1)"
+2015-07-02 10:13:03,357 [main] DEBUG rithm.ltl.LTLMonitor:167 - Predicate -> <empty>
+2015-07-02 10:13:03,357 [main] DEBUG rithm.ltl.LTLMonitor:168 - "(-1, 1)" to "(-1, 1)"
+2015-07-02 10:13:03,357 [main] DEBUG rithm.ltl.LTLMonitor:175 - "(-1, 1)" valuation ->Violated
+2015-07-02 10:13:03,358 [main] DEBUG rithm.ltl.LTLMonitor:175 - "(0, 0)" valuation ->Presumably Satisfied
