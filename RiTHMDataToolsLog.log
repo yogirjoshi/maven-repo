@@ -1,9 +1,27 @@
-2015-06-30 16:08:08,560 [main] DEBUG rithm.datatools.CSVDataFactory:128 - Could not parse as timestamp !!time
-2015-06-30 16:08:09,220 [main] DEBUG rithm.datatools.CSVDataFactory:128 - Could not parse as timestamp !!time
-2015-06-30 16:08:09,520 [main] DEBUG rithm.datatools.CSVDataFactory:128 - Could not parse as timestamp !!time
-2015-06-30 16:09:03,271 [main] DEBUG rithm.datatools.CSVDataFactory:128 - Could not parse as timestamp !!time
-2015-06-30 16:09:04,276 [main] DEBUG rithm.datatools.CSVDataFactory:128 - Could not parse as timestamp !!time
-2015-06-30 16:09:04,815 [main] DEBUG rithm.datatools.CSVDataFactory:128 - Could not parse as timestamp !!time
-2015-06-30 16:14:51,941 [main] DEBUG rithm.datatools.CSVDataFactory:128 - Could not parse as timestamp !!time
-2015-06-30 16:14:52,425 [main] DEBUG rithm.datatools.CSVDataFactory:128 - Could not parse as timestamp !!time
-2015-06-30 16:14:52,705 [main] DEBUG rithm.datatools.CSVDataFactory:128 - Could not parse as timestamp !!time
+2015-07-16 15:19:43,714 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with /home/y2joshi/Input3.csv
+2015-07-16 15:22:03,842 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with null
+2015-07-16 15:27:23,182 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with /home/y2joshi/Input3.csv
+2015-07-16 15:27:44,013 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with /home/y2joshi/Input3.csv
+2015-07-16 15:29:29,313 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with /home/y2joshi/Input3.csv
+2015-07-16 15:37:01,418 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with /home/y2joshi/Input3.csv
+2015-07-16 17:38:58,514 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with /home/y2joshi/Input3.csv
+2015-07-16 17:39:31,696 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with /home/y2joshi/Input3.csv
+2015-07-16 17:40:37,338 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with /home/y2joshi/Input3.csv
+2015-07-16 17:41:04,957 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with /home/y2joshi/Input3.csv
+2015-07-16 17:41:24,881 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with /home/y2joshi/Input3.csv
+2015-07-16 17:42:28,423 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with null
+2015-07-16 17:42:55,513 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with null
+2015-07-16 18:44:11,535 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with /home/y2joshi/Input3.csv
+2015-07-16 18:44:34,974 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with null
+2015-07-16 18:44:58,994 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with null
+2015-07-16 18:45:21,393 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with null
+2015-07-16 18:45:50,694 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with null
+2015-07-16 18:46:10,132 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with null
+2015-07-16 18:46:31,782 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with null
+2015-07-16 19:02:25,585 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with null
+2015-07-16 19:02:30,477 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with null
+2015-07-16 20:19:50,242 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with CANDataRiTHM.csv
+2015-07-16 20:21:27,973 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with CANDataRiTHM.csv
+2015-07-16 20:21:28,232 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with CANDataRiTHM.csv
+2015-07-16 20:21:28,612 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with CANDataRiTHM.csv
+2015-07-16 20:21:28,677 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with CANDataRiTHM.csv

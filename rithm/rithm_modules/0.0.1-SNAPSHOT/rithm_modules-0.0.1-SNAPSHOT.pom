@@ -1,63 +1,95 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-  <modelVersion>4.0.0</modelVersion>
-  <groupId>rithm</groupId>
-  <artifactId>rithm_modules</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
-  <packaging>pom</packaging>
-  <modules>
-  	<module>../datatools</module>
-  	<module>../monitortools</module>
-  	<module>../parsertools</module>
-  	<module>../rithmcore</module>
-  	<module>../client</module>
-  	<module>../command</module>
-  </modules>
-  <reporting>
-    <plugins>
-      <plugin>
-        <groupId>org.apache.maven.plugins</groupId>
-        <artifactId>maven-project-info-reports-plugin</artifactId>
-        <version>2.6</version>
-      </plugin>
-       <plugin>
-        <groupId>org.apache.maven.plugins</groupId>
-        <artifactId>maven-project-info-reports-plugin</artifactId>
-        <version>2.6</version>
-        <reportSets>
-          <reportSet>
-            <reports><!-- select reports -->
-              <report>index</report>
-            </reports>
-          </reportSet>
-        </reportSets>
-      </plugin>
-      <plugin>
-        <groupId>org.apache.maven.plugins</groupId>
-        <artifactId>maven-javadoc-plugin</artifactId>
-        <version>2.9</version>
-        <reportSets>
-          <reportSet><!-- by default, id = "default" -->
-            <reports><!-- select non-aggregate reports -->
-              <report>javadoc</report>
-              <report>test-javadoc</report>
-            </reports>
-          </reportSet>
-          <reportSet><!-- aggregate reportSet, to define in poms having modules -->
-            <id>aggregate</id>
-            <inherited>false</inherited><!-- don't run aggregate in child modules -->
-            <reports>
-              <report>aggregate</report>
-            </reports>
-          </reportSet>
-        </reportSets>
-      </plugin>
-    </plugins>
-  </reporting>
-  <repositories>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>rithm</groupId>
+	<artifactId>rithm_modules</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
+	<modules>
+		<module>../datatools</module>
+		<module>../monitortools</module>
+		<module>../parsertools</module>
+		<module>../rithmcore</module>
+		<module>../client</module>
+		<module>../command</module>
+	</modules>
+	<build>
+		<plugins>
+<!-- 			<plugin> -->
+<!-- 				<groupId>org.apache.maven.plugins</groupId> -->
+<!-- 				<artifactId>maven-assembly-plugin</artifactId> -->
+<!-- 				<version>2.2-beta-4</version> -->
+<!-- 				<configuration> -->
+<!-- 					<descriptorRefs> -->
+<!-- 						<descriptorRef>jar-with-dependencies</descriptorRef> -->
+<!-- 					</descriptorRefs> -->
+<!-- 					<archive> -->
+<!-- 						<manifest> -->
+<!-- 							<mainClass>rithm.driver.RitHMBrewer</mainClass> -->
+<!-- 						</manifest> -->
+<!-- 					</archive> -->
+<!-- 				</configuration> -->
+<!-- 				<executions> -->
+<!-- 					<execution> -->
+<!-- 						<id>standalone</id> -->
+<!-- 						<phase>package</phase> -->
+<!-- 						<goals> -->
+<!-- 							<goal>single</goal> -->
+<!-- 						</goals> -->
+<!-- 					</execution> -->
+<!-- 				</executions> -->
+<!-- 			</plugin> -->
+		</plugins>
+	</build>
+	<reporting>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-project-info-reports-plugin</artifactId>
+				<version>2.6</version>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-project-info-reports-plugin</artifactId>
+				<version>2.6</version>
+				<reportSets>
+					<reportSet>
+						<reports>
+							<report>dependencies</report>
+							<report>project-team</report>
+							<report>license</report>
+							<report>issue-tracking</report>
+						</reports>
+					</reportSet>
+				</reportSets>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-javadoc-plugin</artifactId>
+				<version>2.9</version>
+				<reportSets>
+					<reportSet><!-- by default, id = "default" -->
+						<reports><!-- select non-aggregate reports -->
+							<report>javadoc</report>
+							<report>test-javadoc</report>
+						</reports>
+					</reportSet>
+					<reportSet><!-- aggregate reportSet, to define in poms having modules -->
+						<id>aggregate</id>
+						<inherited>false</inherited><!-- don't run aggregate in child modules -->
+						<reports>
+							<report>aggregate</report>
+						</reports>
+					</reportSet>
+				</reportSets>
+			</plugin>
+		</plugins>
+	</reporting>
+	<repositories>
 		<repository>
 			<id>git-yogirjoshi</id>
 			<name>yogirjoshi's Git based repo</name>
 			<url>https://github.com/yogirjoshi/maven-repo/raw/master/</url>
 		</repository>
-  </repositories>
+	</repositories>
 </project>
