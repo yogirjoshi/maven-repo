@@ -174,3 +174,15 @@
 2015-08-09 23:24:49,044 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with /home/y2joshi/Desktop/RoadRandomRiTHM.csv
 2015-08-09 23:24:49,125 [main] DEBUG rithm.datatools.CSVDataFactory:111 - Could not parse as timestamp !!time
 2015-08-09 23:24:51,203 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with /home/y2joshi/Desktop/RoadRandomRiTHM.csv
+2015-08-17 14:02:35,830 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with /home/y2joshi/Desktop/RoadRandomRiTHM.csv
+2015-08-17 14:02:35,976 [main] DEBUG rithm.datatools.CSVDataFactory:111 - Could not parse as timestamp !!time
+2015-08-17 14:02:37,678 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with /home/y2joshi/Desktop/RoadRandomRiTHM.csv
+2015-08-17 14:03:02,963 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with /home/y2joshi/Desktop/RoadRandomRiTHM.csv
+2015-08-17 14:03:03,045 [main] DEBUG rithm.datatools.CSVDataFactory:111 - Could not parse as timestamp !!time
+2015-08-17 14:03:05,016 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with /home/y2joshi/Desktop/RoadRandomRiTHM.csv
+2015-08-17 14:03:08,181 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with /home/y2joshi/Desktop/RoadRandomRiTHM.csv
+2015-08-17 14:03:08,255 [main] DEBUG rithm.datatools.CSVDataFactory:111 - Could not parse as timestamp !!time
+2015-08-17 14:03:09,794 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with /home/y2joshi/Desktop/RoadRandomRiTHM.csv
+2015-08-17 14:03:14,321 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with /home/y2joshi/Desktop/RoadRandomRiTHM.csv
+2015-08-17 14:03:14,398 [main] DEBUG rithm.datatools.CSVDataFactory:111 - Could not parse as timestamp !!time
+2015-08-17 14:03:15,901 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with /home/y2joshi/Desktop/RoadRandomRiTHM.csv
