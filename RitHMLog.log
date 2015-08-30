@@ -7649,3 +7649,33 @@
 2015-08-29 20:37:51,998 [main] DEBUG rithm.ltl.LTLMonitor:257 - "(2, 1)" valuation ->Unknown
 2015-08-29 20:37:51,998 [main] DEBUG rithm.ltl.LTLMonitor:257 - "(1, -1)" valuation ->Sat
 2015-08-29 20:37:51,998 [main] DEBUG rithm.ltl.LTLMonitor:257 - "(0, 0)" valuation ->Unknown
+2015-08-29 20:39:06,883 [main] DEBUG rithm.ltl.LTLMonitor:249 - Predicate -><empty>
+2015-08-29 20:39:06,886 [main] DEBUG rithm.ltl.LTLMonitor:250 - "(0, 0)" to "(1, -1)"
+2015-08-29 20:39:06,886 [main] DEBUG rithm.ltl.LTLMonitor:228 - Predicate ->a
+2015-08-29 20:39:06,887 [main] DEBUG rithm.ltl.LTLMonitor:228 - Predicate ->b
+2015-08-29 20:39:06,887 [main] DEBUG rithm.ltl.LTLMonitor:231 - "(0, 0)" to "(1, -1)"
+2015-08-29 20:39:06,887 [main] DEBUG rithm.ltl.LTLMonitor:228 - Predicate ->a
+2015-08-29 20:39:06,888 [main] DEBUG rithm.ltl.LTLMonitor:231 - "(0, 0)" to "(2, 1)"
+2015-08-29 20:39:06,888 [main] DEBUG rithm.ltl.LTLMonitor:228 - Predicate ->b
+2015-08-29 20:39:06,888 [main] DEBUG rithm.ltl.LTLMonitor:231 - "(0, 0)" to "(1, -1)"
+2015-08-29 20:39:06,888 [main] DEBUG rithm.ltl.LTLMonitor:249 - Predicate -><empty>
+2015-08-29 20:39:06,889 [main] DEBUG rithm.ltl.LTLMonitor:250 - "(1, -1)" to "(1, -1)"
+2015-08-29 20:39:06,889 [main] DEBUG rithm.ltl.LTLMonitor:228 - Predicate ->a
+2015-08-29 20:39:06,889 [main] DEBUG rithm.ltl.LTLMonitor:228 - Predicate ->b
+2015-08-29 20:39:06,890 [main] DEBUG rithm.ltl.LTLMonitor:231 - "(1, -1)" to "(1, -1)"
+2015-08-29 20:39:06,890 [main] DEBUG rithm.ltl.LTLMonitor:228 - Predicate ->a
+2015-08-29 20:39:06,890 [main] DEBUG rithm.ltl.LTLMonitor:231 - "(1, -1)" to "(1, -1)"
+2015-08-29 20:39:06,891 [main] DEBUG rithm.ltl.LTLMonitor:228 - Predicate ->b
+2015-08-29 20:39:06,891 [main] DEBUG rithm.ltl.LTLMonitor:231 - "(1, -1)" to "(1, -1)"
+2015-08-29 20:39:06,891 [main] DEBUG rithm.ltl.LTLMonitor:249 - Predicate -><empty>
+2015-08-29 20:39:06,891 [main] DEBUG rithm.ltl.LTLMonitor:250 - "(2, 1)" to "(2, 1)"
+2015-08-29 20:39:06,892 [main] DEBUG rithm.ltl.LTLMonitor:228 - Predicate ->a
+2015-08-29 20:39:06,892 [main] DEBUG rithm.ltl.LTLMonitor:228 - Predicate ->b
+2015-08-29 20:39:06,892 [main] DEBUG rithm.ltl.LTLMonitor:231 - "(2, 1)" to "(1, -1)"
+2015-08-29 20:39:06,892 [main] DEBUG rithm.ltl.LTLMonitor:228 - Predicate ->a
+2015-08-29 20:39:06,893 [main] DEBUG rithm.ltl.LTLMonitor:231 - "(2, 1)" to "(2, 1)"
+2015-08-29 20:39:06,893 [main] DEBUG rithm.ltl.LTLMonitor:228 - Predicate ->b
+2015-08-29 20:39:06,893 [main] DEBUG rithm.ltl.LTLMonitor:231 - "(2, 1)" to "(1, -1)"
+2015-08-29 20:39:06,894 [main] DEBUG rithm.ltl.LTLMonitor:257 - "(2, 1)" valuation ->Unknown
+2015-08-29 20:39:06,895 [main] DEBUG rithm.ltl.LTLMonitor:257 - "(1, -1)" valuation ->Sat
+2015-08-29 20:39:06,895 [main] DEBUG rithm.ltl.LTLMonitor:257 - "(0, 0)" valuation ->Unknown
