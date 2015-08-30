@@ -7,7 +7,7 @@ do
 for ((i=0; i<${#tracelength[*]}; i++));
 do
 
-    parallelout=`(time java rithm.driver.Hypothesis${k} ${tracelength[i]} true 8 10) 2>&1`
+    parallelout=`(time java rithm.driver.Hypothesis${k} ${tracelength[i]} true 8 2) 2>&1`
     monexec1=`echo $parallelout | perl -n -e'/Exec Time true:(\d+)/ && print $1'`
 	moncpu1=`echo $parallelout |perl -n -e'/CPU Time true:(\d+)/ && print $1'`
 	real1=`echo $parallelout |perl -n -e'/real ([a-z0-9\.]+)/ && print $1'`
@@ -17,7 +17,7 @@ do
 	
 	sleep 2
     
-    nonparallelout=`(time java rithm.driver.Hypothesis${k} ${tracelength[i]} false 8 10) 2>&1`
+    nonparallelout=`(time java rithm.driver.Hypothesis${k} ${tracelength[i]} false 8 2) 2>&1`
     monexec2=`echo $nonparallelout | perl -n -e'/Exec Time false:(\d+)/ && print $1'`
 	moncpu2=`echo $nonparallelout | perl -n -e'/CPU Time false:(\d+)/ && print $1'`
 	real2=`echo $nonparallelout |perl -n -e'/real ([a-z0-9\.]+)/ && print $1'`
