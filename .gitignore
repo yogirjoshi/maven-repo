@@ -1,4 +1,4 @@
 *.properties
-*.log
+*.log.*
 missing_task_event_states_sorted3.txt
 missing_task_event_states_sorted4.txt
