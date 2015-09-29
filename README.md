@@ -6,7 +6,7 @@ Maven Repository for the repository of JAR files for RiTHM usage: RiTHMBrewer [-
        [-monitorClass pluginClass] [-configFile file]
        [-predicateEvaluatorScriptFile file] [-specParserClass pluginClass]
 RiTHM Options
- -T <property=value>                    Options to control Monitor
+ -T <property=value>                    Options to control Monitor 
                                         Invocation
  -configFile <file>                     Path to Configuration file
  -dataFile <file>                       Path to file containing an
