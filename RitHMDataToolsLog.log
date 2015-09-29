@@ -1024,3 +1024,52 @@
 2015-08-31 23:34:18,895 [main] DEBUG rithm.datatools.CSVDataFactory:111 - Could not parse as timestamp !!time
 2015-08-31 23:34:18,899 [main] DEBUG rithm.datatools.CSVDataFactory:111 - Could not parse as timestamp !!time
 2015-08-31 23:34:21,229 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with /home/y2joshi/CAN_data/M1_acc_rithm_format.csv
+2015-09-03 01:55:39,999 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with /home/y2joshi/ownCloud/rithm_csv_engine_data.csv
+2015-09-03 01:56:25,110 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with /home/y2joshi/ownCloud/rithm_csv_engine_data.csv
+2015-09-03 02:00:46,635 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with /home/y2joshi/ownCloud/rithm_csv_engine_data.csv
+2015-09-03 02:01:07,254 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with /home/y2joshi/ownCloud/rithm_csv_engine_data.csv
+2015-09-03 02:05:30,142 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with /home/y2joshi/ownCloud/rithm_csv_engine_data.csv
+2015-09-03 02:09:15,519 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with /home/y2joshi/ownCloud/rithm_csv_engine_data.csv
+2015-09-03 02:10:35,073 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with /home/y2joshi/ownCloud/rithm_csv_engine_data.csv
+2015-09-03 02:10:50,224 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with /home/y2joshi/ownCloud/rithm_csv_engine_data.csv
+2015-09-03 02:11:46,963 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with /home/y2joshi/ownCloud/rithm_csv_engine_data.csv
+2015-09-03 02:36:01,820 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with /home/y2joshi/ownCloud/rithm_csv_engine_data.csv
+2015-09-03 02:37:28,625 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with /home/y2joshi/ownCloud/rithm_csv_engine_data.csv
+2015-09-03 02:38:26,177 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with /home/y2joshi/ownCloud/rithm_csv_engine_data.csv
+2015-09-03 02:38:29,272 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with /home/y2joshi/ownCloud/rithm_csv_engine_data.csv
+2015-09-03 02:39:48,333 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with /home/y2joshi/ownCloud/rithm_csv_engine_data.csv
+2015-09-03 02:42:22,292 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with /home/y2joshi/ownCloud/rithm_csv_engine_data.csv
+2015-09-03 02:43:24,368 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with /home/y2joshi/ownCloud/rithm_csv_engine_data.csv
+2015-09-03 02:47:45,698 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with /home/y2joshi/ownCloud/rithm_csv_engine_data.csv
+2015-09-03 02:52:02,525 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with /home/y2joshi/ownCloud/rithm_csv_engine_data.csv
+2015-09-03 02:55:28,792 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with /home/y2joshi/ownCloud/rithm_csv_engine_data.csv
+2015-09-03 02:55:31,391 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with /home/y2joshi/ownCloud/rithm_csv_engine_data.csv
+2015-09-03 02:55:33,429 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with /home/y2joshi/ownCloud/rithm_csv_engine_data.csv
+2015-09-03 02:57:17,282 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with /home/y2joshi/ownCloud/rithm_csv_engine_data.csv
+2015-09-03 02:57:19,757 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with /home/y2joshi/ownCloud/rithm_csv_engine_data.csv
+2015-09-03 02:59:57,948 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with /home/y2joshi/ownCloud/rithm_csv_engine_data.csv
+2015-09-03 03:12:48,078 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with /home/y2joshi/ownCloud/rithm_csv_engine_data.csv
+2015-09-04 19:11:22,478 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with /home/y2joshi/ownCloud/rithm_csv_engine_data.csv
+2015-09-04 19:11:27,368 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with /home/y2joshi/ownCloud/rithm_csv_engine_data.csv
+2015-09-15 09:34:35,189 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with /home/y2joshi/CAN_data/M1_acc_rithm_format.csv
+2015-09-15 09:34:35,473 [main] DEBUG rithm.datatools.CSVDataFactory:111 - Could not parse as timestamp !!time
+2015-09-15 09:34:35,520 [main] DEBUG rithm.datatools.CSVDataFactory:111 - Could not parse as timestamp !!time
+2015-09-15 09:34:35,538 [main] DEBUG rithm.datatools.CSVDataFactory:111 - Could not parse as timestamp !!time
+2015-09-15 09:34:35,548 [main] DEBUG rithm.datatools.CSVDataFactory:111 - Could not parse as timestamp !!time
+2015-09-15 09:34:35,557 [main] DEBUG rithm.datatools.CSVDataFactory:111 - Could not parse as timestamp !!time
+2015-09-15 09:34:35,580 [main] DEBUG rithm.datatools.CSVDataFactory:111 - Could not parse as timestamp !!time
+2015-09-15 09:34:35,588 [main] DEBUG rithm.datatools.CSVDataFactory:111 - Could not parse as timestamp !!time
+2015-09-15 09:34:35,597 [main] DEBUG rithm.datatools.CSVDataFactory:111 - Could not parse as timestamp !!time
+2015-09-15 09:34:35,604 [main] DEBUG rithm.datatools.CSVDataFactory:111 - Could not parse as timestamp !!time
+2015-09-15 09:34:35,627 [main] DEBUG rithm.datatools.CSVDataFactory:111 - Could not parse as timestamp !!time
+2015-09-15 09:34:35,630 [main] DEBUG rithm.datatools.CSVDataFactory:111 - Could not parse as timestamp !!time
+2015-09-15 09:34:35,634 [main] DEBUG rithm.datatools.CSVDataFactory:111 - Could not parse as timestamp !!time
+2015-09-15 09:34:35,640 [main] DEBUG rithm.datatools.CSVDataFactory:111 - Could not parse as timestamp !!time
+2015-09-15 09:34:35,675 [main] DEBUG rithm.datatools.CSVDataFactory:111 - Could not parse as timestamp !!time
+2015-09-15 09:34:35,679 [main] DEBUG rithm.datatools.CSVDataFactory:111 - Could not parse as timestamp !!time
+2015-09-15 09:34:35,682 [main] DEBUG rithm.datatools.CSVDataFactory:111 - Could not parse as timestamp !!time
+2015-09-15 09:34:35,686 [main] DEBUG rithm.datatools.CSVDataFactory:111 - Could not parse as timestamp !!time
+2015-09-15 09:34:35,690 [main] DEBUG rithm.datatools.CSVDataFactory:111 - Could not parse as timestamp !!time
+2015-09-15 09:34:35,693 [main] DEBUG rithm.datatools.CSVDataFactory:111 - Could not parse as timestamp !!time
+2015-09-15 09:34:37,938 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with /home/y2joshi/CAN_data/M1_acc_rithm_format.csv
+2015-09-15 09:42:10,803 [main] DEBUG rithm.datatools.CSVDataFactory:36 - Initialized with /home/y2joshi/ownCloud/rithm_csv_engine_data.csv
