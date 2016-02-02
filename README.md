@@ -14,7 +14,7 @@ RiTHM Options <br>
  -dataFormat <string>                   Encoding Format of Data (if not <br>
                                         using dataFile) <br>
  -help                                  Help about RiTHM <br>
- -monEventListener <pluginClass>        A Listener which listens to <br> <br>
+ -monEventListener <pluginClass>        A Listener which listens to <br> 
                                         changes in Monitor's Verdict <br>
  -monitorClass <pluginClass>            Monitor Plugin to be Used (e.g. <br>
                                         LTL/MTL/RegEx)
